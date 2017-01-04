@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! James"
 date:   2016-02-09 17:15:11 +0000
 categories: wordpress
 image:  /preview.jpg
